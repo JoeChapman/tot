@@ -1,0 +1,26 @@
+{
+    "author": {
+        "name": "Joe Chapman",
+        "email": "work@josephchapman.com"
+    },
+    "name": "tot",
+    "description": "A tiny assertion counter for Mocha and Chai",
+    "version": "0.0.1",
+    "homepage": "https://github.com/JoeChapman/tot",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/JoeChapman/tot.git"
+    },
+    "main": "index.js",
+    "readme": "tot\n===============\n\nA tiny assertion counter for mocha and chai\n",
+    "readmeFilename": "README.md",
+    "dependencies": {
+        "mocha": "1.13.0",
+        "chai": "1.7.2"
+    },
+    "bugs": {
+        "url": "https://github.com/JoeChapman/tot/issues"
+    },
+    "_id": "tot@0.0.1",
+    "_from": "tot@0.0.1"
+}
