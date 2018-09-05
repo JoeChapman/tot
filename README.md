@@ -1,6 +1,8 @@
 tot
 ===============
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/JoeChapman/tot.svg)](https://greenkeeper.io/)
+
 A tiny assertion counter for mocha and chai.
 
 Use the global count function to register the number of expected assertions per test (it).
