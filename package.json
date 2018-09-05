@@ -15,8 +15,8 @@
     "readme": "tot\n===============\n\nA tiny assertion counter for mocha and chai\n",
     "readmeFilename": "README.md",
     "dependencies": {
-        "mocha": "1.13.0",
-        "chai": "1.7.2"
+        "mocha": "5.2.0",
+        "chai": "4.1.2"
     },
     "bugs": {
         "url": "https://github.com/JoeChapman/tot/issues"
